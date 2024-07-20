@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aryaman Tiwari! 👋
 
-I'm a third-year student at JUIT, passionate about Machine Learning, Data Science, and Data Analysis. I've been involved in several exciting projects in these fields and have developed a strong skill set.
+I'm a fourth-year student at JUIT, passionate about Machine Learning, Data Science, and Data Analysis. I've been involved in several exciting projects in these fields and have developed a strong skill set.
 
 ## About Me
 
