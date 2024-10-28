@@ -12,7 +12,7 @@
 </div>
 
 <!-- Introduction -->
-# 🚀 Machine Learning | AI | NLP | Data Science Enthusiast
+# 🚀 Machine Learning | AI | NLP | Data Science 
 
 Welcome to my GitHub! I'm a final-year B.Tech student in Computer Science at Jaypee University of Information Technology, actively pushing boundaries in AI, machine learning, and NLP. My journey has been marked by hands-on projects, transformative internships, and open-source contributions—all geared toward making a meaningful impact with technology.
 
