@@ -70,10 +70,65 @@ A deep learning-based identity verification system for secure onboarding through
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryamantiwari17&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamantiwari17&theme=radical" alt="GitHub Streak" />
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+  <!-- Dark background -->
+  <rect width="500" height="200" fill="#1a1b27" rx="10" />
+  
+  <!-- Title -->
+  <text x="20" y="40" fill="#FF69B4" font-family="Arial" font-size="24" font-weight="bold">
+    Aryaman Tiwari's GitHub Stats
+  </text>
+  
+  <!-- Stats on the left -->
+  <g font-family="Arial" font-size="16">
+    <!-- Stars -->
+    <text x="20" y="80" fill="#FFD700">⭐ Total Stars Earned:</text>
+    <text x="200" y="80" fill="#89CFF0">11</text>
+    
+    <!-- Commits -->
+   <text x="20" y="110" fill="#FFD700">🕒 Total Commits (2024):</text>
+    <text x="200" y="110" fill="#89CFF0">116</text>
+    
+    <!-- PRs -->
+   <text x="20" y="140" fill="#FFD700">🔄 Total PRs:</text>
+    <text x="200" y="140" fill="#89CFF0">0</text>
+    
+    <!-- Issues -->
+   <text x="20" y="170" fill="#FFD700">⚠️ Total Issues:</text>
+  <text x="200" y="170" fill="#89CFF0">0</text>
+    
+    <!-- Contributions -->
+    
+  <text x="20" y="200" fill="#FFD700">📊 Contributed to (last year):</text>
+  <text x="200" y="200" fill="#89CFF0">0</text>
+  </g>
+  
+  <!-- Python Circle on the right -->
+  <g transform="translate(380, 100)">
+    <!-- Outer circle background -->
+    <circle r="50" fill="none" stroke="#4B8BBE" stroke-width="10" opacity="0.2"/>
+     <!-- Progress circle (full circle for Python) -->
+    <circle r="50" fill="none" stroke="#4B8BBE" stroke-width="10" 
+            stroke-dasharray="314.159" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset"
+               from="314.159"
+               to="0"
+               dur="1.5s"
+               fill="freeze"/>
+    </circle>
+    
+    <!-- Python text -->
+   <text x="-30" y="10" fill="#FFD700" font-family="Arial" font-size="24" font-weight="bold">
+      Python
+    </text>
+  </g>
+  
+  <!-- Python logo -->
+  <g transform="translate(375, 90) scale(0.4)">
+    <path d="M60,60 C60,0 120,0 120,60 L120,120 C120,180 60,180 60,120 Z" fill="#4B8BBE"/>
+    <path d="M120,60 C120,120 180,120 180,60 L180,0 C180,-60 120,-60 120,0 Z" fill="#FFD43B"/>
+  </g>
+</svg>
 
 ## 📬 Connect with Me
 
