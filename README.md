@@ -71,8 +71,8 @@ A deep learning-based identity verification system for secure onboarding through
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryamantiwari&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamantiwari&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryamantiwari17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryamantiwari17&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📬 Connect with Me
