@@ -20,11 +20,6 @@ Welcome to my GitHub! I'm a final-year B.Tech student in Computer Science at Jay
 - **Generative AI:** Learning And Developing from the Internet
 - **Building Cortex:** Building a product-level communication system for small-scale businesses using LLMs
 - **MLOps:** Focusing on deploying and maintaining ML models in production for real-world industry applications
-  - Learning containerization with Docker
-  - Model monitoring and version control
-  - CI/CD pipelines for ML workflows
-  - Streamlining deployment strategies
-  - Implementing best practices for scalable ML systems
 
 ## 🌟 Featured Projects
 
