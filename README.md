@@ -17,8 +17,15 @@
 Welcome to my GitHub! I'm a final-year B.Tech student in Computer Science at Jaypee University of Information Technology, actively pushing boundaries in AI, machine learning, and NLP. My journey has been marked by hands-on projects, transformative internships, and open-source contributions—all geared toward making a meaningful impact with technology.
 
 ## 📍 Current Focus
-- **Generative AI:** Learning from Krish Naik, India's prominent LLM mentor
-- **Building Cortex:** Building A product for a make system for communication for small scale business using LLM
+- **Generative AI:** Learning And Developing from the Internet
+- **Building Cortex:** Building a product-level communication system for small-scale businesses using LLMs
+- **MLOps:** Focusing on deploying and maintaining ML models in production for real-world industry applications
+  - Learning containerization with Docker
+  - Model monitoring and version control
+  - CI/CD pipelines for ML workflows
+  - Streamlining deployment strategies
+  - Implementing best practices for scalable ML systems
+
 ## 🌟 Featured Projects
 
 ### Nutri_BOT 🍎
