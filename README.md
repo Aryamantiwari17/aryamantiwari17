@@ -66,10 +66,7 @@ A deep learning-based identity verification system for secure onboarding through
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 🏆 Honors & Achievements
-- **IEEE Hackathon** - Placed 3rd out of 200 for a solution to reduce crime in Venezuela
-- **Campus Ambassador at EDC IIT Delhi** - Networked with top entrepreneurs and industry leaders
-- **Top LeetCode Coder** - Solved 50+ problems in a month, achieving 4-star ranking on HackerRank for Python
+
 
 ## 📈 GitHub Stats
 
