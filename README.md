@@ -6,10 +6,7 @@
   </h1>
 </div>
 
-<!-- Banner Image -->
-<div align="center">
-  <img src="https://github.com/aryamantiwari17/aryamantiwari17/blob/main/banner.gif" width="600" height="300"/>
-</div>
+
 
 <!-- Introduction -->
 # 🚀 Machine Learning | AI | NLP | Data Science 
