@@ -8,7 +8,7 @@
 
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://github.com/aryamantiwari/aryamantiwari/blob/main/banner.gif" width="600" height="300"/>
+  <img src="https://github.com/aryamantiwari17/aryamantiwari/blob/main/banner.gif" width="600" height="300"/>
 </div>
 
 <!-- Introduction -->
