@@ -36,13 +36,13 @@ Uses LLMs to automate and classify email responses, streamlining customer inquir
 **AI-driven Educational Tool**  
 Indexes and answers questions from textbooks using RAPTOR structure and Gemini Pro model, ideal for academic support.  
 **Tech Stack:** RAPTOR, SBERT, DPR, Gemini  
-[GitHub Repo](https://github.com/yourusername/textbook-qa)
+[GitHub Repo](https://github.com/Aryamantiwari17/Text_Book-Generator)
 
 ### Secure_Ekyc 🛡️
 **Revolutionizing e-KYC**  
 A deep learning-based identity verification system for secure onboarding through Aadhar integration.  
 **Tech Stack:** Deep Learning, Aadhar Integration  
-[GitHub Repo](https://github.com/Aryamantiwari17/Text_Book-Generator)
+[GitHub Repo](https://github.com/Aryamantiwari17/Secure_E-kyc)
 
 ## 🛠️ Skills
 
